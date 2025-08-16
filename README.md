@@ -11,25 +11,6 @@ The AG News dataset is utilized as an exemplary dataset to illustrate the model'
 - **Framework**: Hugging Face Transformers
 - **Language**: Python
 
-## Usage
-Set up the project environment on your machine by following these steps:
-
-1. Clone the repository:
-    ```
-    git clone https://github.com/HamidrezaGholamrezaei/LLM-Text-Classification-with-RoBERTa.git
-    cd LLM-Text-Classification-with-RoBERTa
-    ```
-
-2. Install the required dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-
-2. Run the Training Script:
-    ```
-    python train.py
-    ```
-
 ## Results
 After training, the model achieved the following evaluation metrics:
 - **Accuracy**: 95.3%
